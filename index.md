@@ -1,37 +1,24 @@
-## Welcome to Yu's GitHub Pages
+## Welcome to Yu's GitHub Pages 2021毕业啦！
 
-You can use the [editor on GitHub](https://github.com/CrumbleT7/niannian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+目前正在寻找2021应届生的工作！
+Currently looking for a graduate job starts anytime in 2021 !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+英国杜伦大学：理学硕士 ：管理学
+英国约克大学：荣誉工学学士 ：电子工程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Durham Univeristy : Master in Management 
+York   University : Bachelor in Electronic Engineering 
 
-```markdown
-Syntax highlighted code block
+### Projects
 
-# Header 1
-## Header 2
-### Header 3
+近期
+近期正在
+近期正在培养自己的
+近期正在培养自己的道路上！！！
 
-- Bulleted
-- List
+早日实现python自动化～～ 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CrumbleT7/niannian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for visiting this page ! 
+More information will be added later on ...
