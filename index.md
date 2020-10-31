@@ -14,11 +14,11 @@ York   University : Bachelor in Electronic Engineering
 ### Projects
 
 近期<br/>
-近期正在
-近期正在培养自己的
-近期正在培养自己的道路上！！！
+近期正在<br/>
+近期正在培养自己的<br/>
+近期正在培养自己的道路上！！！<br/>
 
-早日实现python办公自动化～～ 
+早日实现python办公自动化～～ <br/>
 
-Thank you for visiting this page ! 
+Thank you for visiting this page ! <br/>
 More information will be added later on ...
