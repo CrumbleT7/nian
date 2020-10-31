@@ -8,12 +8,12 @@ Currently looking for a graduate job starts anytime in 2021 !
 英国杜伦大学：理学硕士 ：管理学<br/>
 英国约克大学：荣誉工学学士 ：电子工程<br/>
 
-Durham Univeristy : Master in Management 
+Durham Univeristy : Master in Management <br/>
 York   University : Bachelor in Electronic Engineering 
 
 ### Projects
 
-近期
+近期<br/>
 近期正在
 近期正在培养自己的
 近期正在培养自己的道路上！！！
