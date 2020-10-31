@@ -5,8 +5,8 @@ Currently looking for a graduate job starts anytime in 2021 !
 
 ### Education
 
-英国杜伦大学：理学硕士 ：管理学\
-英国约克大学：荣誉工学学士 ：电子工程\
+英国杜伦大学：理学硕士 ：管理学<br/>
+英国约克大学：荣誉工学学士 ：电子工程<br/>
 
 Durham Univeristy : Master in Management \
 York   University : Bachelor in Electronic Engineering 
